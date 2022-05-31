@@ -20,7 +20,7 @@ html{
 .Title{
   width: fit-content;
   position: absolute;
-  top: 60%;
+  top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
   font-family: 'Syncopate', sans-serif;
